@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Node.js, React**
+ 🌱 I’m currently learning **Java, Data Structues, Node.js, React**
 
 💬 I'm aspiring **Full Stack Developer**
 
